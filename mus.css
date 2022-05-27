@@ -64,5 +64,12 @@
     100%{
         transform: rotate(50deg);
     }
+    
+    @media (max-width:990px){
+
+ .mustach{
+    left:80px;
+ }
+}
 }
 
